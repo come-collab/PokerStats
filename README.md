@@ -13,3 +13,5 @@ This script analyzes poker hand history data for a specific player ("Fried Berg"
 3. **Calculate Total Winnings**: Aggregates the total winnings from all hands where the player won.
 
 4. **Overall Winrate Calculation**: The winrate is calculated using the formula: Winrate (BB/100) = (Total Winnings / Total Active Hands) * (100 / Big Blind Size).
+
+5. ** Upload your files to the DayOfPoker folder (all your hands per day) and change the name of the player and the BB (at the end of the code). 
