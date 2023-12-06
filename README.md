@@ -2,7 +2,7 @@
 This repository will contain multiple Python script that will help you have better stats on your poker history.
 
 ## Winamax Hand History
-### Poker Hand History Analyzer
+### Poker Hand History Analyzer (you can find it ine the file : poker-winrate-winamax.py)
 
 This script analyzes poker hand history data for a specific player ("Fried Berg") across multiple text files. Each file contains a series of poker hands. The script performs the following functions:
 
