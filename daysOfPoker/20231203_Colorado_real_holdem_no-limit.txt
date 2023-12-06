@@ -1,0 +1,2715 @@
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539666-1701591304 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:15:04 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: _Adopt1mucK_ (1.62€)
+Seat 2: Fried Berg (0.50€)
+Seat 3: chaketovibet (2.39€)
+Seat 4: .  PHIL  . (2€)
+Seat 5: Berig (1.90€)
+Seat 6: PIQSOU (2.82€)
+*** ANTE/BLINDS ***
+_Adopt1mucK_ posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [2h Td]
+*** PRE-FLOP *** 
+chaketovibet folds
+.  PHIL  . folds
+Berig calls 0.02€
+PIQSOU folds
+_Adopt1mucK_ calls 0.01€
+Fried Berg checks
+*** FLOP *** [9s 3d 5c]
+_Adopt1mucK_ checks
+Fried Berg checks
+Berig checks
+*** TURN *** [9s 3d 5c][8d]
+_Adopt1mucK_ bets 0.04€
+Fried Berg folds
+Berig raises 0.08€ to 0.12€
+_Adopt1mucK_ calls 0.08€
+*** RIVER *** [9s 3d 5c 8d][Kd]
+_Adopt1mucK_ folds
+Berig collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.03€
+Board: [9s 3d 5c 8d Kd]
+Seat 5: Berig won 0.27€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539696-1701591345 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:15:45 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.48€)
+Seat 2: durba (0.85€)
+Seat 3: Thequeen1205 (3.06€)
+Seat 4: Mr.Roquefort (2.03€)
+Seat 5: jdeepenslip (2.39€)
+Seat 6: TaBrEaMoI (2.01€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+durba posts big blind 0.02€
+Dealt to Fried Berg [6d 2d]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+Mr.Roquefort folds
+jdeepenslip folds
+TaBrEaMoI folds
+Fried Berg folds
+durba collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: durba (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539698-1701591348 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:15:48 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: PIQSOU (3.60€)
+Seat 2: Thequeen1205 (2.63€)
+Seat 3: Fried Berg (0.47€)
+Seat 4: chaketovibet (3.83€)
+Seat 5: Niroshima37 (1.13€)
+Seat 6: DigBick99 (2€)
+*** ANTE/BLINDS ***
+PIQSOU posts small blind 0.01€
+Thequeen1205 posts big blind 0.02€
+Dealt to Fried Berg [9d 9h]
+*** PRE-FLOP *** 
+Fried Berg raises 0.02€ to 0.04€
+chaketovibet folds
+Niroshima37 folds
+DigBick99 folds
+PIQSOU folds
+Thequeen1205 folds
+Fried Berg collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 3: Fried Berg won 0.07€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539712-1701591364 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:16:04 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: fuego17 (2.01€)
+Seat 2: AmelPaquita (1.64€)
+Seat 3: Thequeen1205 (2.69€)
+Seat 4: Fried Berg (0.50€)
+Seat 5: chtiven6gal (0.62€)
+Seat 6: wanttoberich (2.13€)
+*** ANTE/BLINDS ***
+fuego17 posts small blind 0.01€
+AmelPaquita posts big blind 0.02€
+Dealt to Fried Berg [2h 4h]
+*** PRE-FLOP *** 
+Thequeen1205 raises 0.02€ to 0.04€
+Fried Berg folds
+chtiven6gal folds
+wanttoberich folds
+fuego17 folds
+AmelPaquita calls 0.02€
+*** FLOP *** [8d 9d 4d]
+AmelPaquita checks
+Thequeen1205 checks
+*** TURN *** [8d 9d 4d][Tc]
+AmelPaquita checks
+Thequeen1205 checks
+*** RIVER *** [8d 9d 4d Tc][3s]
+AmelPaquita bets 0.09€
+Thequeen1205 calls 0.09€
+*** SHOW DOWN ***
+AmelPaquita shows [4c 3c] (Two pairs : 4 and 3)
+Thequeen1205 shows [3d 3h] (Trips of 3)
+Thequeen1205 collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.03€
+Board: [8d 9d 4d Tc 3s]
+Seat 2: AmelPaquita (big blind) showed [4c 3c] and lost with Two pairs : 4 and 3
+Seat 3: Thequeen1205 showed [3d 3h] and won 0.24€ with Trips of 3
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539714-1701591367 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:16:07 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: muespachois1 (1.28€)
+Seat 2: wanttoberich (2.13€)
+Seat 3: PIQSOU (3.59€)
+Seat 4: TaBrEaMoI (2€)
+Seat 5: Fried Berg (0.50€)
+Seat 6: chtiven6gal (0.62€)
+*** ANTE/BLINDS ***
+muespachois1 posts small blind 0.01€
+wanttoberich posts big blind 0.02€
+Dealt to Fried Berg [Qs Kd]
+*** PRE-FLOP *** 
+PIQSOU folds
+TaBrEaMoI folds
+Fried Berg raises 0.02€ to 0.04€
+chtiven6gal folds
+muespachois1 folds
+wanttoberich calls 0.02€
+*** FLOP *** [Td 8d Ts]
+wanttoberich checks
+Fried Berg checks
+*** TURN *** [Td 8d Ts][9d]
+wanttoberich bets 0.06€
+Fried Berg calls 0.06€
+*** RIVER *** [Td 8d Ts 9d][Qh]
+wanttoberich bets 0.14€
+Fried Berg calls 0.14€
+*** SHOW DOWN ***
+Fried Berg shows [Qs Kd] (Two pairs : Queens and Tens)
+wanttoberich shows [8c Jd] (Straight Queen high)
+wanttoberich collected 0.44€ from pot
+*** SUMMARY ***
+Total pot 0.44€ | Rake 0.05€
+Board: [Td 8d Ts 9d Qh]
+Seat 2: wanttoberich (big blind) showed [8c Jd] and won 0.44€ with Straight Queen high
+Seat 5: Fried Berg showed [Qs Kd] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539759-1701591423 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:17:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: jdeepenslip (3.20€)
+Seat 2: TaBrEaMoI (4.29€)
+Seat 3: VR_King14 (0.48€)
+Seat 4: RdBrd (3.25€)
+Seat 5: Fried Berg (0.26€)
+Seat 6: DigBick99 (2€)
+*** ANTE/BLINDS ***
+jdeepenslip posts small blind 0.01€
+TaBrEaMoI posts big blind 0.02€
+Dealt to Fried Berg [2c 9d]
+*** PRE-FLOP *** 
+VR_King14 folds
+RdBrd folds
+Fried Berg folds
+DigBick99 folds
+jdeepenslip folds
+TaBrEaMoI collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: TaBrEaMoI (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539764-1701591428 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:17:08 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Pac_Man13 (0.40€)
+Seat 2: RdBrd (3.25€)
+Seat 3: elx111 (1.97€)
+Seat 4: Fried Berg (0.26€)
+Seat 5: AmelPaquita (1.53€)
+Seat 6: Berig (1.60€)
+*** ANTE/BLINDS ***
+Pac_Man13 posts small blind 0.01€
+RdBrd posts big blind 0.02€
+Dealt to Fried Berg [9s 4d]
+*** PRE-FLOP *** 
+elx111 folds
+Fried Berg folds
+AmelPaquita folds
+Berig folds
+Pac_Man13 raises 0.02€ to 0.04€
+RdBrd calls 0.02€
+*** FLOP *** [3h 3c 2d]
+Pac_Man13 checks
+RdBrd bets 0.03€
+Pac_Man13 folds
+RdBrd collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | Rake 0.01€
+Board: [3h 3c 2d]
+Seat 2: RdBrd (big blind) won 0.10€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539775-1701591444 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:17:24 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: F.k.theriver (1.90€)
+Seat 2: Fried Berg (0.26€)
+Seat 3: DigBick99 (2.21€)
+Seat 4: Thequeen1205 (3.05€)
+Seat 5: JissEl1te (3.77€)
+Seat 6: .  PHIL  . (2.12€)
+*** ANTE/BLINDS ***
+F.k.theriver posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [Qd 5c]
+*** PRE-FLOP *** 
+DigBick99 folds
+Thequeen1205 folds
+JissEl1te folds
+.  PHIL  . folds
+F.k.theriver calls 0.01€
+Fried Berg checks
+*** FLOP *** [Jd 9c 4s]
+F.k.theriver checks
+Fried Berg checks
+*** TURN *** [Jd 9c 4s][Jh]
+F.k.theriver bets 0.03€
+Fried Berg folds
+F.k.theriver collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Board: [Jd 9c 4s Jh]
+Seat 1: F.k.theriver (small blind) won 0.07€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539796-1701591471 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:17:51 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: MainMouette (1.48€)
+Seat 2: PIQSOU (4.99€)
+Seat 3: Fried Berg (0.24€)
+Seat 4: MENDOSA-31 (0.50€)
+Seat 5: Thequeen1205 (3.57€)
+Seat 6: chaketovibet (3.44€)
+Hold-up to Pot: total 0.10€
+*** ANTE/BLINDS ***
+MainMouette posts small blind 0.01€
+PIQSOU posts big blind 0.02€
+Dealt to Fried Berg [Qs Qh]
+*** PRE-FLOP *** 
+Fried Berg raises 0.22€ to 0.24€ and is all-in
+MENDOSA-31 folds
+Thequeen1205 folds
+chaketovibet folds
+MainMouette folds
+PIQSOU folds
+Fried Berg collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | No rake
+Seat 3: Fried Berg won 0.37€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539817-1701591494 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:18:14 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.37€)
+Seat 2: Jdeepenjeans (0.94€)
+Seat 3: Thequeen1205 (2.71€)
+Seat 4: Jean3776 (2.61€)
+Seat 5: wanttoberich (2.38€)
+Seat 6: RegisWolf873 (1.53€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Jdeepenjeans posts big blind 0.02€
+Dealt to Fried Berg [Ah 8c]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+Jean3776 folds
+wanttoberich folds
+RegisWolf873 raises 0.04€ to 0.06€
+Fried Berg folds
+Jdeepenjeans folds
+RegisWolf873 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 6: RegisWolf873 (button) won 0.09€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539830-1701591506 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:18:26 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: galettedesKK (2€)
+Seat 2: M&dusa (2.35€)
+Seat 3: NansLNB (2.24€)
+Seat 4: Pablopenrais (2€)
+Seat 5: F.k.theriver (1.31€)
+Seat 6: Fried Berg (0.36€)
+*** ANTE/BLINDS ***
+galettedesKK posts small blind 0.01€
+M&dusa posts big blind 0.02€
+Dealt to Fried Berg [4c 6c]
+*** PRE-FLOP *** 
+NansLNB folds
+Pablopenrais folds
+F.k.theriver folds
+Fried Berg folds
+galettedesKK folds
+M&dusa collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: M&dusa (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539835-1701591513 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:18:33 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: DigBick99 (2.03€)
+Seat 2: Jdeepenjeans (0.99€)
+Seat 3: elx111 (2€)
+Seat 4: NansLNB (2.24€)
+Seat 5: F.k.theriver (1.31€)
+Seat 6: Fried Berg (0.36€)
+*** ANTE/BLINDS ***
+DigBick99 posts small blind 0.01€
+Jdeepenjeans posts big blind 0.02€
+Dealt to Fried Berg [6d 9h]
+*** PRE-FLOP *** 
+elx111 raises 0.03€ to 0.05€
+NansLNB folds
+F.k.theriver folds
+Fried Berg folds
+DigBick99 calls 0.04€
+Jdeepenjeans folds
+*** FLOP *** [Qs 3s 5h]
+DigBick99 checks
+elx111 bets 0.04€
+DigBick99 folds
+elx111 collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | Rake 0.01€
+Board: [Qs 3s 5h]
+Seat 3: elx111 won 0.15€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539861-1701591537 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:18:57 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: elx111 (2.06€)
+Seat 2: Elou84 (0.50€)
+Seat 3: RdBrd (2.61€)
+Seat 4: KhalilNeyl (1.26€)
+Seat 5: Thequeen1205 (3.66€)
+Seat 6: Fried Berg (0.36€)
+*** ANTE/BLINDS ***
+elx111 posts small blind 0.01€
+Elou84 posts big blind 0.02€
+Dealt to Fried Berg [6h 9d]
+*** PRE-FLOP *** 
+RdBrd folds
+KhalilNeyl calls 0.02€
+Thequeen1205 folds
+Fried Berg folds
+elx111 folds
+Elou84 checks
+*** FLOP *** [7c 2s Kh]
+Elou84 checks
+KhalilNeyl checks
+*** TURN *** [7c 2s Kh][3c]
+Elou84 checks
+KhalilNeyl checks
+*** RIVER *** [7c 2s Kh 3c][8h]
+Elou84 checks
+KhalilNeyl bets 0.02€
+Elou84 folds
+KhalilNeyl collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | Rake 0.01€
+Board: [7c 2s Kh 3c 8h]
+Seat 4: KhalilNeyl won 0.06€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539873-1701591554 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:19:14 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.36€)
+Seat 2: Mr.Roquefort (2.41€)
+Seat 3: HonezZ (2.26€)
+Seat 4: chaketovibet (4.22€)
+Seat 5: JissEl1te (3.99€)
+Seat 6: PIQSOU (2.58€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Mr.Roquefort posts big blind 0.02€
+Dealt to Fried Berg [7d 8h]
+*** PRE-FLOP *** 
+HonezZ calls 0.02€
+chaketovibet folds
+JissEl1te folds
+PIQSOU raises 0.06€ to 0.08€
+Fried Berg folds
+Mr.Roquefort folds
+HonezZ calls 0.06€
+*** FLOP *** [Kd Js 3d]
+HonezZ checks
+PIQSOU bets 0.06€
+HonezZ raises 0.18€ to 0.24€
+PIQSOU calls 0.18€
+*** TURN *** [Kd Js 3d][Td]
+HonezZ bets 0.44€
+PIQSOU folds
+HonezZ collected 1.04€ from pot
+*** SUMMARY ***
+Total pot 1.04€ | Rake 0.07€
+Board: [Kd Js 3d Td]
+Seat 3: HonezZ won 1.04€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539882-1701591565 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:19:25 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: jdeepenslip (2€)
+Seat 2: Fried Berg (0.35€)
+Seat 3: Berig (1.57€)
+Seat 4: TaBrEaMoI (3.92€)
+Seat 5: galettedesKK (2€)
+Seat 6: durba (0.39€)
+*** ANTE/BLINDS ***
+jdeepenslip posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [2d 5h]
+*** PRE-FLOP *** 
+Berig calls 0.02€
+TaBrEaMoI folds
+galettedesKK raises 0.03€ to 0.05€
+durba calls 0.05€
+jdeepenslip folds
+Fried Berg folds
+Berig calls 0.03€
+*** FLOP *** [3h 4h As]
+Berig checks
+galettedesKK checks
+durba bets 0.09€
+Berig folds
+galettedesKK folds
+durba collected 0.25€ from pot
+*** SUMMARY ***
+Total pot 0.25€ | Rake 0.02€
+Board: [3h 4h As]
+Seat 6: durba (button) won 0.25€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539899-1701591587 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:19:47 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (4.31€)
+Seat 2: Thequeen1205 (2.57€)
+Seat 3: Fried Berg (0.33€)
+Seat 4: gagnejamais4 (2.11€)
+Seat 5: _Adopt1mucK_ (1.63€)
+Seat 6: Mr.Roquefort (2.38€)
+Hold-up to Pot: total 0.10€
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+Thequeen1205 posts big blind 0.02€
+Dealt to Fried Berg [5d Th]
+*** PRE-FLOP *** 
+Fried Berg folds
+gagnejamais4 folds
+_Adopt1mucK_ calls 0.02€
+Mr.Roquefort folds
+TaBrEaMoI folds
+Thequeen1205 checks
+*** FLOP *** [3s 7c Qc]
+Thequeen1205 checks
+_Adopt1mucK_ checks
+*** TURN *** [3s 7c Qc][Kh]
+Thequeen1205 bets 0.08€
+_Adopt1mucK_ calls 0.08€
+*** RIVER *** [3s 7c Qc Kh][Td]
+Thequeen1205 bets 0.16€
+_Adopt1mucK_ calls 0.16€
+*** SHOW DOWN ***
+Thequeen1205 shows [6s Kd] (One pair : Kings)
+_Adopt1mucK_ shows [Kc 5s] (One pair : Kings)
+_Adopt1mucK_ collected 0.29€ from pot
+Thequeen1205 collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.58€ | Rake 0.05€
+Board: [3s 7c Qc Kh Td]
+Seat 2: Thequeen1205 (big blind) showed [6s Kd] and won 0.29€ with One pair : Kings
+Seat 5: _Adopt1mucK_ showed [Kc 5s] and won 0.29€ with One pair : Kings
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539903-1701591593 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:19:53 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: fuego17 (2€)
+Seat 2: jdeepenslip (7.78€)
+Seat 3: Jdeepenjeans (0.89€)
+Seat 4: Fried Berg (0.33€)
+Seat 5: DigBick99 (2€)
+Seat 6: VR_King14 (0.32€)
+*** ANTE/BLINDS ***
+fuego17 posts small blind 0.01€
+jdeepenslip posts big blind 0.02€
+Dealt to Fried Berg [6d Qd]
+*** PRE-FLOP *** 
+Jdeepenjeans raises 0.03€ to 0.05€
+Fried Berg folds
+DigBick99 folds
+VR_King14 folds
+fuego17 folds
+jdeepenslip folds
+Jdeepenjeans collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 3: Jdeepenjeans won 0.08€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539906-1701591599 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:19:59 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: chtiven6gal (0.70€)
+Seat 2: gagnejamais4 (2.11€)
+Seat 3: TaBrEaMoI (3.92€)
+Seat 4: MainMouette (2.50€)
+Seat 5: Fried Berg (0.33€)
+Seat 6: Alex_0812 (4.29€)
+*** ANTE/BLINDS ***
+chtiven6gal posts small blind 0.01€
+gagnejamais4 posts big blind 0.02€
+Dealt to Fried Berg [2d Ac]
+*** PRE-FLOP *** 
+TaBrEaMoI folds
+MainMouette folds
+Fried Berg folds
+Alex_0812 folds
+chtiven6gal folds
+gagnejamais4 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: gagnejamais4 (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539919-1701591612 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:20:12 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: gagnejamais4 (2.12€)
+Seat 2: PIQSOU (3.35€)
+Seat 3: M&dusa (2.34€)
+Seat 4: jdeepenslip (2€)
+Seat 5: Fried Berg (0.33€)
+Seat 6: SirX (9.15€)
+*** ANTE/BLINDS ***
+gagnejamais4 posts small blind 0.01€
+PIQSOU posts big blind 0.02€
+Dealt to Fried Berg [Qh Kd]
+*** PRE-FLOP *** 
+M&dusa folds
+jdeepenslip folds
+Fried Berg raises 0.02€ to 0.04€
+SirX folds
+gagnejamais4 calls 0.03€
+PIQSOU folds
+*** FLOP *** [Jd 6d 9d]
+gagnejamais4 bets 0.07€
+Fried Berg calls 0.07€
+*** TURN *** [Jd 6d 9d][8d]
+gagnejamais4 checks
+Fried Berg bets 0.08€
+gagnejamais4 calls 0.08€
+*** RIVER *** [Jd 6d 9d 8d][Ks]
+gagnejamais4 checks
+Fried Berg checks
+*** SHOW DOWN ***
+gagnejamais4 shows [Jh 6h] (Two pairs : Jacks and 6)
+Fried Berg shows [Qh Kd] (Flush King high)
+Fried Berg collected 0.36€ from pot
+*** SUMMARY ***
+Total pot 0.36€ | Rake 0.04€
+Board: [Jd 6d 9d 8d Ks]
+Seat 1: gagnejamais4 (small blind) showed [Jh 6h] and lost with Two pairs : Jacks and 6
+Seat 5: Fried Berg showed [Qh Kd] and won 0.36€ with Flush King high
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539963-1701591669 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:21:09 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: .  PHIL  . (3.15€)
+Seat 2: Fried Berg (0.50€)
+Seat 3: Jeje27 (4.47€)
+Seat 4: wAAlterrr (1.94€)
+Seat 5: TaBrEaMoI (2.22€)
+Seat 6: fuego17 (2€)
+*** ANTE/BLINDS ***
+.  PHIL  . posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [3d 5h]
+*** PRE-FLOP *** 
+Jeje27 folds
+wAAlterrr folds
+TaBrEaMoI folds
+fuego17 raises 0.04€ to 0.06€
+.  PHIL  . calls 0.05€
+Fried Berg folds
+*** FLOP *** [9d 2h Tc]
+.  PHIL  . bets 0.14€
+fuego17 folds
+.  PHIL  . collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.01€
+Board: [9d 2h Tc]
+Seat 1: .  PHIL  . (small blind) won 0.27€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539986-1701591691 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:21:31 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.48€)
+Seat 2: benzappa (1.91€)
+Seat 3: JissEl1te (3.94€)
+Seat 4: SirX (9.09€)
+Seat 5: leplombier15 (0.86€)
+Seat 6: wAAlterrr (1.97€)
+Hold-up to Pot: total 0.20€
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+benzappa posts big blind 0.02€
+Dealt to Fried Berg [Th 3d]
+*** PRE-FLOP *** 
+JissEl1te folds
+SirX folds
+leplombier15 raises 0.02€ to 0.04€
+wAAlterrr folds
+Fried Berg folds
+benzappa folds
+leplombier15 collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 5: leplombier15 won 0.27€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-539996-1701591706 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:21:46 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: .  PHIL  . (2.42€)
+Seat 2: jdeepenslip (8€)
+Seat 3: Fried Berg (0.47€)
+Seat 4: Mr.Roquefort (2.38€)
+Seat 5: Berig (2.34€)
+Seat 6: DigBick99 (2.49€)
+*** ANTE/BLINDS ***
+.  PHIL  . posts small blind 0.01€
+jdeepenslip posts big blind 0.02€
+Dealt to Fried Berg [Qd 8c]
+*** PRE-FLOP *** 
+Fried Berg folds
+Mr.Roquefort folds
+Berig folds
+DigBick99 raises 0.03€ to 0.05€
+.  PHIL  . folds
+jdeepenslip raises 0.15€ to 0.20€
+DigBick99 calls 0.15€
+*** FLOP *** [Qc Qh 2c]
+jdeepenslip bets 0.14€
+DigBick99 folds
+jdeepenslip collected 0.51€ from pot
+*** SUMMARY ***
+Total pot 0.51€ | Rake 0.04€
+Board: [Qc Qh 2c]
+Seat 2: jdeepenslip (big blind) won 0.51€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540012-1701591724 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:22:04 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: scach-111 (2€)
+Seat 2: wanttoberich (2.05€)
+Seat 3: RegisWolf873 (1.97€)
+Seat 4: Fried Berg (0.47€)
+Seat 5: TaBrEaMoI (3.89€)
+Seat 6: Thequeen1205 (3.11€)
+*** ANTE/BLINDS ***
+scach-111 posts small blind 0.01€
+wanttoberich posts big blind 0.02€
+Dealt to Fried Berg [Qc 5c]
+*** PRE-FLOP *** 
+RegisWolf873 folds
+Fried Berg folds
+TaBrEaMoI folds
+Thequeen1205 folds
+scach-111 calls 0.01€
+wanttoberich raises 0.06€ to 0.08€
+scach-111 folds
+wanttoberich collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 2: wanttoberich (big blind) won 0.10€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540024-1701591738 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:22:18 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Mr.Roquefort (2€)
+Seat 2: NOT AT ALL (0.99€)
+Seat 3: gagnejamais4 (2.46€)
+Seat 4: wmx-k2meuz1 (2.80€)
+Seat 5: Fried Berg (0.47€)
+Seat 6: Pablopenrais (2.29€)
+*** ANTE/BLINDS ***
+Mr.Roquefort posts small blind 0.01€
+NOT AT ALL posts big blind 0.02€
+Dealt to Fried Berg [7d Ac]
+*** PRE-FLOP *** 
+gagnejamais4 raises 0.04€ to 0.06€
+wmx-k2meuz1 raises 0.15€ to 0.21€
+Fried Berg folds
+Pablopenrais folds
+Mr.Roquefort folds
+NOT AT ALL folds
+gagnejamais4 calls 0.15€
+*** FLOP *** [Jd 7s 2h]
+gagnejamais4 checks
+wmx-k2meuz1 bets 0.02€
+gagnejamais4 calls 0.02€
+*** TURN *** [Jd 7s 2h][8c]
+gagnejamais4 checks
+wmx-k2meuz1 bets 0.32€
+gagnejamais4 folds
+wmx-k2meuz1 collected 0.76€ from pot
+*** SUMMARY ***
+Total pot 0.76€ | Rake 0.05€
+Board: [Jd 7s 2h 8c]
+Seat 4: wmx-k2meuz1 won 0.76€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540033-1701591751 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:22:31 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (3.87€)
+Seat 2: _Adopt1mucK_ (1.57€)
+Seat 3: fuego17 (2.43€)
+Seat 4: wanttoberich (2.07€)
+Seat 5: Thequeen1205 (3.10€)
+Seat 6: Fried Berg (0.47€)
+Hold-up to Pot: total 0.20€
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+_Adopt1mucK_ posts big blind 0.02€
+Dealt to Fried Berg [3s 7s]
+*** PRE-FLOP *** 
+fuego17 folds
+wanttoberich folds
+Thequeen1205 folds
+Fried Berg folds
+TaBrEaMoI raises 0.05€ to 0.07€
+_Adopt1mucK_ calls 0.05€
+*** FLOP *** [2d 7d 3d]
+TaBrEaMoI checks
+_Adopt1mucK_ checks
+*** TURN *** [2d 7d 3d][9c]
+TaBrEaMoI checks
+_Adopt1mucK_ checks
+*** RIVER *** [2d 7d 3d 9c][Ad]
+TaBrEaMoI bets 0.17€
+_Adopt1mucK_ folds
+TaBrEaMoI collected 0.50€ from pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.01€
+Board: [2d 7d 3d 9c Ad]
+Seat 1: TaBrEaMoI (small blind) won 0.50€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540040-1701591762 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:22:42 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.47€)
+Seat 2: Knaki67 (0.58€)
+Seat 3: LilRun (2.97€)
+Seat 4: Mr.Roquefort (2.35€)
+Seat 5: wanttoberich (2.07€)
+Seat 6: Thequeen1205 (3.39€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Knaki67 posts big blind 0.02€
+Dealt to Fried Berg [Kd 5h]
+*** PRE-FLOP *** 
+LilRun folds
+Mr.Roquefort raises 0.03€ to 0.05€
+wanttoberich folds
+Thequeen1205 calls 0.05€
+Fried Berg folds
+Knaki67 folds
+*** FLOP *** [4d 8c 3h]
+Mr.Roquefort checks
+Thequeen1205 checks
+*** TURN *** [4d 8c 3h][2s]
+Mr.Roquefort checks
+Thequeen1205 bets 0.05€
+Mr.Roquefort folds
+Thequeen1205 collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [4d 8c 3h 2s]
+Seat 6: Thequeen1205 (button) won 0.17€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540053-1701591783 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:23:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Jeje27 (4.25€)
+Seat 2: scach-111 (2€)
+Seat 3: Fried Berg (0.46€)
+Seat 4: NansLNB (2.05€)
+Seat 5: Alex_0812 (3.96€)
+Seat 6: LilRun (2.95€)
+*** ANTE/BLINDS ***
+Jeje27 posts small blind 0.01€
+scach-111 posts big blind 0.02€
+Dealt to Fried Berg [3h As]
+*** PRE-FLOP *** 
+Fried Berg folds
+NansLNB folds
+Alex_0812 calls 0.02€
+LilRun folds
+Jeje27 folds
+scach-111 checks
+*** FLOP *** [Kh 5h Jd]
+scach-111 checks
+Alex_0812 bets 0.02€
+scach-111 calls 0.02€
+*** TURN *** [Kh 5h Jd][5d]
+scach-111 checks
+Alex_0812 checks
+*** RIVER *** [Kh 5h Jd 5d][2h]
+scach-111 bets 0.06€
+Alex_0812 calls 0.06€
+*** SHOW DOWN ***
+Alex_0812 shows [Qs Ks] (Two pairs : Kings and 5)
+scach-111 shows [4h 9h] (Flush King high)
+scach-111 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.02€
+Board: [Kh 5h Jd 5d 2h]
+Seat 2: scach-111 (big blind) showed [4h 9h] and won 0.19€ with Flush King high
+Seat 5: Alex_0812 showed [Qs Ks] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540065-1701591801 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:23:21 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: fuego17 (2€)
+Seat 2: Fried Berg (0.46€)
+Seat 3: chaketovibet (2€)
+Seat 4: PIQSOU (2.07€)
+Seat 5: TaBrEaMoI (4.47€)
+Seat 6: .  PHIL  . (2€)
+*** ANTE/BLINDS ***
+fuego17 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [5s Qh]
+*** PRE-FLOP *** 
+chaketovibet raises 0.04€ to 0.06€
+PIQSOU folds
+TaBrEaMoI folds
+.  PHIL  . calls 0.06€
+fuego17 folds
+Fried Berg folds
+*** FLOP *** [Ad 3d 6d]
+chaketovibet bets 0.05€
+.  PHIL  . folds
+chaketovibet collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | Rake 0.02€
+Board: [Ad 3d 6d]
+Seat 3: chaketovibet won 0.18€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540083-1701591830 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:23:50 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: grut28 (1.97€)
+Seat 2: M&dusa (1.93€)
+Seat 3: Thequeen1205 (3.48€)
+Seat 4: Fried Berg (0.44€)
+Seat 5: Berig (2.23€)
+Seat 6: LilRun (2.91€)
+*** ANTE/BLINDS ***
+grut28 posts small blind 0.01€
+M&dusa posts big blind 0.02€
+Dealt to Fried Berg [Th 7s]
+*** PRE-FLOP *** 
+Thequeen1205 raises 0.03€ to 0.05€
+Fried Berg folds
+Berig folds
+LilRun folds
+grut28 folds
+M&dusa folds
+Thequeen1205 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 3: Thequeen1205 won 0.08€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540084-1701591831 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:23:51 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (3.96€)
+Seat 2: Jeje27 (4.22€)
+Seat 3: elx111 (1.94€)
+Seat 4: PIQSOU (3.24€)
+Seat 5: scach-111 (2.12€)
+Seat 6: Fried Berg (0.44€)
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+Jeje27 posts big blind 0.02€
+Dealt to Fried Berg [Kc 4c]
+*** PRE-FLOP *** 
+elx111 raises 0.02€ to 0.04€
+PIQSOU folds
+scach-111 folds
+Fried Berg calls 0.04€
+TaBrEaMoI folds
+Jeje27 folds
+*** FLOP *** [5d Qc 9s]
+elx111 checks
+Fried Berg bets 0.04€
+elx111 folds
+Fried Berg collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [5d Qc 9s]
+Seat 6: Fried Berg (button) won 0.14€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540135-1701591883 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:24:43 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Jdeepenjeans (2.67€)
+Seat 2: RegisWolf873 (2.80€)
+Seat 3: scach-111 (2€)
+Seat 4: Berig (2.04€)
+Seat 5: edfcain (2€)
+Seat 6: Fried Berg (0.50€)
+Hold-up to Pot: total 0.10€
+*** ANTE/BLINDS ***
+Jdeepenjeans posts small blind 0.01€
+RegisWolf873 posts big blind 0.02€
+Dealt to Fried Berg [Ah Ad]
+*** PRE-FLOP *** 
+scach-111 folds
+Berig calls 0.02€
+edfcain folds
+Fried Berg raises 0.48€ to 0.50€ and is all-in
+Jdeepenjeans folds
+RegisWolf873 folds
+Berig folds
+Fried Berg collected 0.65€ from pot
+*** SUMMARY ***
+Total pot 0.65€ | No rake
+Seat 6: Fried Berg (button) won 0.65€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540151-1701591903 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:25:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.65€)
+Seat 2: Berig (2.02€)
+Seat 3: fuego17 (2.21€)
+Seat 4: F.k.theriver (1.63€)
+Seat 5: Jdeepenjeans (2.66€)
+Seat 6: jdeepenslip (3.81€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Berig posts big blind 0.02€
+Dealt to Fried Berg [6s 2c]
+*** PRE-FLOP *** 
+fuego17 folds
+F.k.theriver folds
+Jdeepenjeans folds
+jdeepenslip folds
+Fried Berg folds
+Berig collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Berig (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540167-1701591916 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:25:16 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: scach-111 (2€)
+Seat 2: Fried Berg (0.64€)
+Seat 3: Mizoun2.0 (2€)
+Seat 4: grut28 (1.97€)
+Seat 5: wmx-k2meuz1 (3.84€)
+Seat 6: M&dusa (2.04€)
+*** ANTE/BLINDS ***
+scach-111 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [4c Qc]
+*** PRE-FLOP *** 
+Mizoun2.0 folds
+grut28 folds
+wmx-k2meuz1 calls 0.02€
+M&dusa calls 0.02€
+scach-111 folds
+Fried Berg checks
+*** FLOP *** [Td 2s 6s]
+Fried Berg checks
+wmx-k2meuz1 checks
+M&dusa bets 0.04€
+Fried Berg folds
+wmx-k2meuz1 calls 0.04€
+*** TURN *** [Td 2s 6s][8s]
+wmx-k2meuz1 bets 0.15€
+M&dusa folds
+wmx-k2meuz1 collected 0.28€ from pot
+*** SUMMARY ***
+Total pot 0.28€ | Rake 0.02€
+Board: [Td 2s 6s 8s]
+Seat 5: wmx-k2meuz1 won 0.28€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540197-1701591952 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:25:52 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: wanttoberich (2€)
+Seat 2: PIQSOU (3.29€)
+Seat 3: Fried Berg (0.62€)
+Seat 4: .  PHIL  . (2.65€)
+Seat 5: Berig (2.38€)
+Seat 6: Thequeen1205 (3.43€)
+*** ANTE/BLINDS ***
+wanttoberich posts small blind 0.01€
+PIQSOU posts big blind 0.02€
+Dealt to Fried Berg [3s Js]
+*** PRE-FLOP *** 
+Fried Berg folds
+.  PHIL  . folds
+Berig calls 0.02€
+Thequeen1205 folds
+wanttoberich folds
+PIQSOU raises 0.08€ to 0.10€
+Berig calls 0.08€
+*** FLOP *** [Kd 2c 4h]
+PIQSOU bets 0.07€
+Berig folds
+PIQSOU collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.02€
+Board: [Kd 2c 4h]
+Seat 2: PIQSOU (big blind) won 0.26€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540236-1701591995 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:26:35 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: grut28 (2.07€)
+Seat 2: muespachois1 (1.16€)
+Seat 3: Pac_Man13 (0.72€)
+Seat 4: Fried Berg (0.62€)
+Seat 5: JissEl1te (4.90€)
+Seat 6: edfcain (3.60€)
+*** ANTE/BLINDS ***
+grut28 posts small blind 0.01€
+muespachois1 posts big blind 0.02€
+Dealt to Fried Berg [7s Ah]
+*** PRE-FLOP *** 
+Pac_Man13 folds
+Fried Berg calls 0.02€
+JissEl1te folds
+edfcain folds
+grut28 folds
+muespachois1 checks
+*** FLOP *** [2h 3c 9s]
+muespachois1 checks
+Fried Berg checks
+*** TURN *** [2h 3c 9s][Jc]
+muespachois1 checks
+Fried Berg checks
+*** RIVER *** [2h 3c 9s Jc][Qh]
+muespachois1 checks
+Fried Berg checks
+*** SHOW DOWN ***
+muespachois1 shows [8s 5h] (High card : Queen)
+Fried Berg shows [7s Ah] (High card : Ace)
+Fried Berg collected 0.04€ from pot
+*** SUMMARY ***
+Total pot 0.04€ | Rake 0.01€
+Board: [2h 3c 9s Jc Qh]
+Seat 2: muespachois1 (big blind) showed [8s 5h] and lost with High card : Queen
+Seat 4: Fried Berg showed [7s Ah] and won 0.04€ with High card : Ace
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540266-1701592031 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:27:11 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Jdeepenjeans (0.98€)
+Seat 2: F.k.theriver (0.92€)
+Seat 3: Mizoun2.0 (2.42€)
+Seat 4: Jeje27 (4.74€)
+Seat 5: Fried Berg (0.64€)
+Seat 6: scach-111 (2.03€)
+*** ANTE/BLINDS ***
+Jdeepenjeans posts small blind 0.01€
+F.k.theriver posts big blind 0.02€
+Dealt to Fried Berg [6d 9c]
+*** PRE-FLOP *** 
+Mizoun2.0 raises 0.04€ to 0.06€
+Jeje27 folds
+Fried Berg folds
+scach-111 folds
+Jdeepenjeans calls 0.05€
+F.k.theriver folds
+*** FLOP *** [Qd Ks Jd]
+Jdeepenjeans checks
+Mizoun2.0 bets 0.09€
+Jdeepenjeans folds
+Mizoun2.0 collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [Qd Ks Jd]
+Seat 3: Mizoun2.0 won 0.22€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540274-1701592039 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:27:19 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.64€)
+Seat 2: TaBrEaMoI (3.96€)
+Seat 3: fuego17 (2.06€)
+Seat 4: scach-111 (2€)
+Seat 5: gagnejamais4 (3.29€)
+Seat 6: KhalilNeyl (2.02€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+TaBrEaMoI posts big blind 0.02€
+Dealt to Fried Berg [3d Th]
+*** PRE-FLOP *** 
+fuego17 folds
+scach-111 folds
+gagnejamais4 folds
+KhalilNeyl calls 0.02€
+Fried Berg folds
+TaBrEaMoI checks
+*** FLOP *** [3h 5d Kd]
+TaBrEaMoI checks
+KhalilNeyl bets 0.05€
+TaBrEaMoI calls 0.05€
+*** TURN *** [3h 5d Kd][5s]
+TaBrEaMoI checks
+KhalilNeyl bets 0.05€
+TaBrEaMoI calls 0.05€
+*** RIVER *** [3h 5d Kd 5s][Ah]
+TaBrEaMoI checks
+KhalilNeyl checks
+*** SHOW DOWN ***
+KhalilNeyl shows [Td Qd] (One pair : 5)
+TaBrEaMoI shows [2c Kh] (Two pairs : Kings and 5)
+TaBrEaMoI collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.03€
+Board: [3h 5d Kd 5s Ah]
+Seat 2: TaBrEaMoI (big blind) showed [2c Kh] and won 0.22€ with Two pairs : Kings and 5
+Seat 6: KhalilNeyl (button) showed [Td Qd] and lost with One pair : 5
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540286-1701592054 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:27:34 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Knaki67 (0.56€)
+Seat 2: chtiven6gal (1.57€)
+Seat 3: Fried Berg (0.63€)
+Seat 4: benzappa (2.07€)
+Seat 5: grut28 (2.03€)
+Seat 6: Thequeen1205 (3.17€)
+*** ANTE/BLINDS ***
+Knaki67 posts small blind 0.01€
+chtiven6gal posts big blind 0.02€
+Dealt to Fried Berg [Qh 8c]
+*** PRE-FLOP *** 
+Fried Berg folds
+benzappa raises 0.03€ to 0.05€
+grut28 folds
+Thequeen1205 folds
+Knaki67 folds
+chtiven6gal folds
+benzappa collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 4: benzappa won 0.08€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540304-1701592075 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:27:55 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: scach-111 (2.21€)
+Seat 2: Fried Berg (0.63€)
+Seat 3: VR_King14 (1.88€)
+Seat 4: AmelPaquita (2.19€)
+Seat 5: RegisWolf873 (0.73€)
+Seat 6: wanttoberich (2.51€)
+*** ANTE/BLINDS ***
+scach-111 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [4c 2c]
+*** PRE-FLOP *** 
+VR_King14 folds
+AmelPaquita folds
+RegisWolf873 folds
+wanttoberich folds
+scach-111 folds
+Fried Berg collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Fried Berg (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540311-1701592084 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:28:04 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (4.06€)
+Seat 2: RegisWolf873 (0.72€)
+Seat 3: gagnejamais4 (3.37€)
+Seat 4: Fried Berg (0.64€)
+Seat 5: KhalilNeyl (1.90€)
+Seat 6: marcojoline (0.94€)
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+RegisWolf873 posts big blind 0.02€
+Dealt to Fried Berg [Qs 3c]
+*** PRE-FLOP *** 
+gagnejamais4 folds
+Fried Berg folds
+KhalilNeyl folds
+marcojoline folds
+TaBrEaMoI folds
+RegisWolf873 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: RegisWolf873 (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540328-1701592101 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:28:21 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: grut28 (1.99€)
+Seat 2: jdeepenslip (8.75€)
+Seat 3: TaBrEaMoI (4.04€)
+Seat 4: Pablopenrais (2.31€)
+Seat 5: gagnejamais4 (2.83€)
+Seat 6: Fried Berg (0.64€)
+*** ANTE/BLINDS ***
+grut28 posts small blind 0.01€
+jdeepenslip posts big blind 0.02€
+Dealt to Fried Berg [8h 7s]
+*** PRE-FLOP *** 
+TaBrEaMoI folds
+Pablopenrais folds
+gagnejamais4 raises 0.02€ to 0.04€
+Fried Berg calls 0.04€
+grut28 folds
+jdeepenslip calls 0.02€
+*** FLOP *** [Qs 3h 3c]
+jdeepenslip checks
+gagnejamais4 checks
+Fried Berg checks
+*** TURN *** [Qs 3h 3c][Tc]
+jdeepenslip checks
+gagnejamais4 checks
+Fried Berg checks
+*** RIVER *** [Qs 3h 3c Tc][2s]
+jdeepenslip checks
+gagnejamais4 checks
+Fried Berg checks
+*** SHOW DOWN ***
+gagnejamais4 shows [8c 7c] (One pair : 3)
+Fried Berg shows [8h 7s] (One pair : 3)
+jdeepenslip shows [Ad 9d] (One pair : 3)
+jdeepenslip collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [Qs 3h 3c Tc 2s]
+Seat 2: jdeepenslip (big blind) showed [Ad 9d] and won 0.12€ with One pair : 3
+Seat 5: gagnejamais4 showed [8c 7c] and lost with One pair : 3
+Seat 6: Fried Berg (button) showed [8h 7s] and lost with One pair : 3
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540356-1701592137 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:28:57 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: edfcain (3.61€)
+Seat 2: .  PHIL  . (5.12€)
+Seat 3: Thequeen1205 (2€)
+Seat 4: scach-111 (2€)
+Seat 5: Fried Berg (0.60€)
+Seat 6: gagnejamais4 (2.79€)
+*** ANTE/BLINDS ***
+edfcain posts small blind 0.01€
+.  PHIL  . posts big blind 0.02€
+Dealt to Fried Berg [9c 7d]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+scach-111 folds
+Fried Berg folds
+gagnejamais4 folds
+edfcain folds
+.  PHIL  . collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: .  PHIL  . (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540363-1701592143 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:29:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: jdeepenslip (8.83€)
+Seat 2: NBChasseur52 (0.78€)
+Seat 3: Fried Berg (0.60€)
+Seat 4: sopra61 (2.07€)
+Seat 5: scach-111 (2€)
+Seat 6: Thequeen1205 (2€)
+*** ANTE/BLINDS ***
+jdeepenslip posts small blind 0.01€
+NBChasseur52 posts big blind 0.02€
+Dealt to Fried Berg [As 3h]
+*** PRE-FLOP *** 
+Fried Berg folds
+sopra61 folds
+scach-111 folds
+Thequeen1205 folds
+jdeepenslip raises 0.04€ to 0.06€
+NBChasseur52 calls 0.04€
+*** FLOP *** [7d 7h 4c]
+jdeepenslip checks
+NBChasseur52 bets 0.08€
+jdeepenslip folds
+NBChasseur52 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [7d 7h 4c]
+Seat 2: NBChasseur52 (big blind) won 0.19€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540380-1701592161 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:29:21 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: scach-111 (2€)
+Seat 2: Bazoook (2.39€)
+Seat 3: Jeje27 (5.03€)
+Seat 4: Fried Berg (0.60€)
+Seat 5: TaBrEaMoI (4.70€)
+Seat 6: Fish-de-paye (2€)
+*** ANTE/BLINDS ***
+scach-111 posts small blind 0.01€
+Bazoook posts big blind 0.02€
+Dealt to Fried Berg [2c 7h]
+*** PRE-FLOP *** 
+Jeje27 raises 0.03€ to 0.05€
+Fried Berg folds
+TaBrEaMoI calls 0.05€
+Fish-de-paye folds
+scach-111 folds
+Bazoook folds
+*** FLOP *** [Td 5h 2h]
+Jeje27 checks
+TaBrEaMoI checks
+*** TURN *** [Td 5h 2h][5d]
+Jeje27 checks
+TaBrEaMoI checks
+*** RIVER *** [Td 5h 2h 5d][Ad]
+Jeje27 bets 0.05€
+TaBrEaMoI folds
+Jeje27 collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [Td 5h 2h 5d Ad]
+Seat 3: Jeje27 won 0.17€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540392-1701592175 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:29:35 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: .  PHIL  . (3.04€)
+Seat 2: Fried Berg (0.60€)
+Seat 3: Fish-de-paye (2€)
+Seat 4: edfcain (3.55€)
+Seat 5: scach-111 (2€)
+Seat 6: Bazoook (2.40€)
+*** ANTE/BLINDS ***
+.  PHIL  . posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [8d 2d]
+*** PRE-FLOP *** 
+Fish-de-paye folds
+edfcain folds
+scach-111 folds
+Bazoook folds
+.  PHIL  . folds
+Fried Berg collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Fried Berg (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540399-1701592181 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:29:41 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.61€)
+Seat 2: Thequeen1205 (3.06€)
+Seat 3: - ONZE - (2.01€)
+Seat 4: Pablopenrais (2.31€)
+Seat 5: chaketovibet (2€)
+Seat 6: wanttoberich (2.46€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Thequeen1205 posts big blind 0.02€
+Dealt to Fried Berg [9s 6c]
+*** PRE-FLOP *** 
+- ONZE - folds
+Pablopenrais folds
+chaketovibet raises 0.04€ to 0.06€
+wanttoberich raises 0.12€ to 0.18€
+Fried Berg folds
+Thequeen1205 folds
+chaketovibet folds
+wanttoberich collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 6: wanttoberich (button) won 0.27€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540418-1701592203 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:30:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: chtiven6gal (1.46€)
+Seat 2: edfcain (2.82€)
+Seat 3: benzappa (4.08€)
+Seat 4: .  PHIL  . (4.98€)
+Seat 5: Fried Berg (0.60€)
+Seat 6: PIQSOU (4.02€)
+*** ANTE/BLINDS ***
+chtiven6gal posts small blind 0.01€
+edfcain posts big blind 0.02€
+Dealt to Fried Berg [6c 9h]
+*** PRE-FLOP *** 
+benzappa folds
+.  PHIL  . raises 0.02€ to 0.04€
+Fried Berg folds
+PIQSOU folds
+chtiven6gal raises 0.02€ to 0.06€
+edfcain folds
+.  PHIL  . calls 0.02€
+*** FLOP *** [Kd 3s 5s]
+chtiven6gal bets 0.07€
+.  PHIL  . calls 0.07€
+*** TURN *** [Kd 3s 5s][Kh]
+chtiven6gal bets 0.10€
+.  PHIL  . folds
+chtiven6gal collected 0.35€ from pot
+*** SUMMARY ***
+Total pot 0.35€ | Rake 0.03€
+Board: [Kd 3s 5s Kh]
+Seat 1: chtiven6gal (small blind) won 0.35€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540433-1701592216 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:30:16 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (4.30€)
+Seat 2: chaketovibet (2€)
+Seat 3: vicieux59 (0.41€)
+Seat 4: DigBick99 (2.06€)
+Seat 5: Fried Berg (0.60€)
+Seat 6: Thequeen1205 (2.16€)
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+chaketovibet posts big blind 0.02€
+Dealt to Fried Berg [3c 9h]
+*** PRE-FLOP *** 
+vicieux59 raises 0.05€ to 0.07€
+DigBick99 folds
+Fried Berg folds
+Thequeen1205 calls 0.07€
+TaBrEaMoI folds
+chaketovibet folds
+*** FLOP *** [8d Kc 2c]
+vicieux59 bets 0.06€
+Thequeen1205 calls 0.06€
+*** TURN *** [8d Kc 2c][Kd]
+vicieux59 bets 0.19€
+Thequeen1205 calls 0.19€
+*** RIVER *** [8d Kc 2c Kd][6c]
+vicieux59 checks
+Thequeen1205 bets 0.34€
+vicieux59 calls 0.09€ and is all-in
+*** SHOW DOWN ***
+vicieux59 shows [Qs Jd] (One pair : Kings)
+Thequeen1205 shows [Ac Jc] (Flush Ace high)
+Thequeen1205 collected 1.01€ from pot
+*** SUMMARY ***
+Total pot 1.01€ | Rake 0.09€
+Board: [8d Kc 2c Kd 6c]
+Seat 3: vicieux59 showed [Qs Jd] and lost with One pair : Kings
+Seat 6: Thequeen1205 (button) showed [Ac Jc] and won 1.01€ with Flush Ace high
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540453-1701592235 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:30:35 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Bazoook (2.36€)
+Seat 2: jdeepenslip (3.94€)
+Seat 3: Fried Berg (0.60€)
+Seat 4: muespachois1 (1.05€)
+Seat 5: TaBrEaMoI (2€)
+Seat 6: scach-111 (2€)
+*** ANTE/BLINDS ***
+Bazoook posts small blind 0.01€
+jdeepenslip posts big blind 0.02€
+Dealt to Fried Berg [9s 6h]
+*** PRE-FLOP *** 
+Fried Berg folds
+muespachois1 folds
+TaBrEaMoI folds
+scach-111 calls 0.02€
+Bazoook folds
+jdeepenslip raises 0.08€ to 0.10€
+scach-111 folds
+jdeepenslip collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | No rake
+Seat 2: jdeepenslip (big blind) won 0.13€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540472-1701592255 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:30:55 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: M&dusa (1.83€)
+Seat 2: marcojoline (1.17€)
+Seat 3: - ONZE - (2.11€)
+Seat 4: galettedesKK (2.41€)
+Seat 5: Itashi.95 (1.97€)
+Seat 6: Fried Berg (0.60€)
+*** ANTE/BLINDS ***
+M&dusa posts small blind 0.01€
+marcojoline posts big blind 0.02€
+Dealt to Fried Berg [8d Td]
+*** PRE-FLOP *** 
+- ONZE - folds
+galettedesKK raises 0.05€ to 0.07€
+Itashi.95 raises 0.17€ to 0.24€
+Fried Berg folds
+M&dusa folds
+marcojoline folds
+galettedesKK calls 0.17€
+*** FLOP *** [Th 2d Tc]
+galettedesKK checks
+Itashi.95 bets 0.51€
+galettedesKK raises 1.66€ to 2.17€ and is all-in
+Itashi.95 calls 1.22€ and is all-in
+*** TURN *** [Th 2d Tc][9s]
+*** RIVER *** [Th 2d Tc 9s][7d]
+*** SHOW DOWN ***
+galettedesKK shows [Qh Kd] (One pair : Tens)
+Itashi.95 shows [As Ad] (Two pairs : Aces and Tens)
+Itashi.95 collected 3.57€ from main pot
+galettedesKK collected 0.44€ from side pot 1
+*** SUMMARY ***
+Total pot 4.01€ | Rake 0.40€
+Board: [Th 2d Tc 9s 7d]
+Seat 4: galettedesKK showed [Qh Kd] and won 0.44€ with One pair : Tens
+Seat 5: Itashi.95 showed [As Ad] and won 3.57€ with Two pairs : Aces and Tens
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540490-1701592273 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:31:13 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fish-de-paye (2€)
+Seat 2: scach-111 (2.34€)
+Seat 3: PIQSOU (3.99€)
+Seat 4: Fried Berg (0.60€)
+Seat 5: jdeepenslip (3.98€)
+Seat 6: Alwarrior (2€)
+*** ANTE/BLINDS ***
+Fish-de-paye posts small blind 0.01€
+scach-111 posts big blind 0.02€
+Dealt to Fried Berg [Qs Kd]
+*** PRE-FLOP *** 
+PIQSOU folds
+Fried Berg raises 0.02€ to 0.04€
+jdeepenslip folds
+Alwarrior folds
+Fish-de-paye folds
+scach-111 calls 0.02€
+*** FLOP *** [5h Jd Jh]
+scach-111 checks
+Fried Berg checks
+*** TURN *** [5h Jd Jh][4d]
+scach-111 checks
+Fried Berg checks
+*** RIVER *** [5h Jd Jh 4d][6s]
+scach-111 bets 0.02€
+Fried Berg folds
+scach-111 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | Rake 0.01€
+Board: [5h Jd Jh 4d 6s]
+Seat 2: scach-111 (big blind) won 0.10€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540549-1701592327 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:32:07 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: elx111 (1.26€)
+Seat 2: Fried Berg (0.56€)
+Seat 3: Mizoun2.0 (2.26€)
+Seat 4: edfcain (3.55€)
+Seat 5: gagnejamais4 (3.43€)
+Seat 6: Thequeen1205 (3.43€)
+*** ANTE/BLINDS ***
+elx111 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [6s 3s]
+*** PRE-FLOP *** 
+Mizoun2.0 folds
+edfcain folds
+gagnejamais4 raises 0.04€ to 0.06€
+Thequeen1205 folds
+elx111 folds
+Fried Berg folds
+gagnejamais4 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: gagnejamais4 won 0.09€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540575-1701592359 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:32:39 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.54€)
+Seat 2: RegisWolf873 (1.13€)
+Seat 3: DigBick99 (4.15€)
+Seat 4: Thequeen1205 (3.43€)
+Seat 5: .  PHIL  . (2.35€)
+Seat 6: edfcain (3.52€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+RegisWolf873 posts big blind 0.02€
+Dealt to Fried Berg [6h 7h]
+*** PRE-FLOP *** 
+DigBick99 folds
+Thequeen1205 folds
+.  PHIL  . folds
+edfcain raises 0.03€ to 0.05€
+Fried Berg calls 0.04€
+RegisWolf873 calls 0.03€
+*** FLOP *** [2c 7s Kc]
+Fried Berg checks
+RegisWolf873 checks
+edfcain checks
+*** TURN *** [2c 7s Kc][7c]
+Fried Berg bets 0.02€
+RegisWolf873 raises 0.05€ to 0.07€
+edfcain folds
+Fried Berg calls 0.05€
+*** RIVER *** [2c 7s Kc 7c][6c]
+Fried Berg checks
+RegisWolf873 checks
+*** SHOW DOWN ***
+RegisWolf873 shows [Kd 9h] (Two pairs : Kings and 7)
+Fried Berg shows [6h 7h] (Full of 7 and 6)
+Fried Berg collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.03€
+Board: [2c 7s Kc 7c 6c]
+Seat 1: Fried Berg (small blind) showed [6h 7h] and won 0.26€ with Full of 7 and 6
+Seat 2: RegisWolf873 (big blind) showed [Kd 9h] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540624-1701592412 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:33:32 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: - ONZE - (2.01€)
+Seat 2: Thequeen1205 (2.16€)
+Seat 3: edfcain (3.44€)
+Seat 4: DigBick99 (4.22€)
+Seat 5: Fried Berg (0.68€)
+Seat 6: Mizoun2.0 (2.18€)
+*** ANTE/BLINDS ***
+- ONZE - posts small blind 0.01€
+Thequeen1205 posts big blind 0.02€
+Dealt to Fried Berg [9h Qc]
+*** PRE-FLOP *** 
+edfcain folds
+DigBick99 raises 0.04€ to 0.06€
+Fried Berg folds
+Mizoun2.0 raises 0.12€ to 0.18€
+- ONZE - folds
+Thequeen1205 folds
+DigBick99 folds
+Mizoun2.0 collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | No rake
+Seat 6: Mizoun2.0 (button) won 0.27€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540643-1701592433 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:33:53 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: BAVAROIS09 (0.59€)
+Seat 2: wmx-k2meuz1 (5.15€)
+Seat 3: gagnejamais4 (1.68€)
+Seat 4: Pac_Man13 (0.68€)
+Seat 5: chaketovibet (2€)
+Seat 6: Fried Berg (0.68€)
+Hold-up to Pot: total 0.10€
+*** ANTE/BLINDS ***
+BAVAROIS09 posts small blind 0.01€
+wmx-k2meuz1 posts big blind 0.02€
+Dealt to Fried Berg [Ac 5h]
+*** PRE-FLOP *** 
+gagnejamais4 folds
+Pac_Man13 calls 0.02€
+chaketovibet folds
+Fried Berg raises 0.02€ to 0.04€
+BAVAROIS09 folds
+wmx-k2meuz1 calls 0.02€
+Pac_Man13 calls 0.02€
+*** FLOP *** [6h Jh Th]
+wmx-k2meuz1 checks
+Pac_Man13 checks
+Fried Berg checks
+*** TURN *** [6h Jh Th][Qc]
+wmx-k2meuz1 bets 0.23€
+Pac_Man13 folds
+Fried Berg folds
+wmx-k2meuz1 collected 0.45€ from pot
+*** SUMMARY ***
+Total pot 0.45€ | Rake 0.01€
+Board: [6h Jh Th Qc]
+Seat 2: wmx-k2meuz1 (big blind) won 0.45€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540689-1701592476 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:34:36 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.64€)
+Seat 2: jdeepenslip (8.61€)
+Seat 3: benzappa (3.96€)
+Seat 4: Mizoun2.0 (2.10€)
+Seat 5: Pablopenrais (2€)
+Seat 6: _Adopt1mucK_ (2.74€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+jdeepenslip posts big blind 0.02€
+Dealt to Fried Berg [8s 4s]
+*** PRE-FLOP *** 
+benzappa folds
+Mizoun2.0 folds
+Pablopenrais raises 0.04€ to 0.06€
+_Adopt1mucK_ folds
+Fried Berg folds
+jdeepenslip folds
+Pablopenrais collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: Pablopenrais won 0.09€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540696-1701592485 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:34:45 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: fuego17 (2.09€)
+Seat 2: Fried Berg (0.63€)
+Seat 3: Mizoun2.0 (2.10€)
+Seat 4: scach-111 (2.01€)
+Seat 5: Fish-de-paye (2.17€)
+Seat 6: chaketovibet (2.69€)
+*** ANTE/BLINDS ***
+fuego17 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [4c Ah]
+*** PRE-FLOP *** 
+Mizoun2.0 folds
+scach-111 folds
+Fish-de-paye folds
+chaketovibet folds
+fuego17 folds
+Fried Berg collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Fried Berg (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540712-1701592500 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:35:00 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: scach-111 (2€)
+Seat 2: DigBick99 (2.05€)
+Seat 3: Fried Berg (0.64€)
+Seat 4: jdeepenslip (3.63€)
+Seat 5: CB-Joker6274 (7.74€)
+Seat 6: NOT AT ALL (1.84€)
+*** ANTE/BLINDS ***
+scach-111 posts small blind 0.01€
+DigBick99 posts big blind 0.02€
+Dealt to Fried Berg [5h 3s]
+*** PRE-FLOP *** 
+Fried Berg folds
+jdeepenslip folds
+CB-Joker6274 calls 0.02€
+NOT AT ALL calls 0.02€
+scach-111 folds
+DigBick99 checks
+*** FLOP *** [Jh Jd 5c]
+DigBick99 checks
+CB-Joker6274 checks
+NOT AT ALL checks
+*** TURN *** [Jh Jd 5c][Qs]
+DigBick99 checks
+CB-Joker6274 checks
+NOT AT ALL checks
+*** RIVER *** [Jh Jd 5c Qs][Qd]
+DigBick99 checks
+CB-Joker6274 bets 0.02€
+NOT AT ALL folds
+DigBick99 folds
+CB-Joker6274 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | Rake 0.01€
+Board: [Jh Jd 5c Qs Qd]
+Seat 5: CB-Joker6274 won 0.08€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540715-1701592503 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:35:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (4.27€)
+Seat 2: chtiven6gal (1.04€)
+Seat 3: jdeepenslip (3.63€)
+Seat 4: Fried Berg (0.64€)
+Seat 5: fuego17 (2.04€)
+Seat 6: .  PHIL  . (2.29€)
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+chtiven6gal posts big blind 0.02€
+Dealt to Fried Berg [5d 3h]
+*** PRE-FLOP *** 
+jdeepenslip folds
+Fried Berg folds
+fuego17 folds
+.  PHIL  . folds
+TaBrEaMoI folds
+chtiven6gal collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: chtiven6gal (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540720-1701592509 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:35:09 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: edfcain (4.34€)
+Seat 2: KON-2-PEUTE (2€)
+Seat 3: Thequeen1205 (3.42€)
+Seat 4: - ONZE - (2.08€)
+Seat 5: scach-111 (2€)
+Seat 6: Fried Berg (0.64€)
+*** ANTE/BLINDS ***
+edfcain posts small blind 0.01€
+KON-2-PEUTE posts big blind 0.02€
+Dealt to Fried Berg [5s Kd]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+- ONZE - folds
+scach-111 raises 0.04€ to 0.06€
+Fried Berg folds
+edfcain folds
+KON-2-PEUTE calls 0.04€
+*** FLOP *** [Js Kh 8h]
+KON-2-PEUTE checks
+scach-111 bets 0.07€
+KON-2-PEUTE folds
+scach-111 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Js Kh 8h]
+Seat 5: scach-111 won 0.19€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540728-1701592518 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:35:18 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: - ONZE - (2.08€)
+Seat 2: VR_King14 (2.37€)
+Seat 3: gagnejamais4 (2.69€)
+Seat 4: wmx-k2meuz1 (5.44€)
+Seat 5: alemky (0.50€)
+Seat 6: Fried Berg (0.64€)
+*** ANTE/BLINDS ***
+- ONZE - posts small blind 0.01€
+VR_King14 posts big blind 0.02€
+Dealt to Fried Berg [Td 5s]
+*** PRE-FLOP *** 
+gagnejamais4 folds
+wmx-k2meuz1 folds
+alemky folds
+Fried Berg folds
+- ONZE - folds
+VR_King14 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: VR_King14 (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540734-1701592525 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:35:25 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: TaBrEaMoI (5.28€)
+Seat 2: scorp1ontk (2€)
+Seat 3: jdeepenslip (3.68€)
+Seat 4: Fried Berg (0.64€)
+Seat 5: Pac_Man13 (0.55€)
+Seat 6: _Adopt1mucK_ (2.70€)
+*** ANTE/BLINDS ***
+TaBrEaMoI posts small blind 0.01€
+scorp1ontk posts big blind 0.02€
+Dealt to Fried Berg [Kd 6h]
+*** PRE-FLOP *** 
+jdeepenslip folds
+Fried Berg folds
+Pac_Man13 folds
+_Adopt1mucK_ raises 0.03€ to 0.05€
+TaBrEaMoI folds
+scorp1ontk calls 0.03€
+*** FLOP *** [8d Jd 7s]
+scorp1ontk bets 0.04€
+_Adopt1mucK_ folds
+scorp1ontk collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [8d Jd 7s]
+Seat 2: scorp1ontk (big blind) won 0.14€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540766-1701592554 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:35:54 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: chaketovibet (2.70€)
+Seat 2: Fried Berg (0.64€)
+Seat 3: Thequeen1205 (2.58€)
+Seat 4: edfcain (4.25€)
+Seat 5: scach-111 (2.48€)
+Seat 6: Fish-de-paye (2.24€)
+*** ANTE/BLINDS ***
+chaketovibet posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [5h 5c]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+edfcain folds
+scach-111 folds
+Fish-de-paye folds
+chaketovibet raises 0.04€ to 0.06€
+Fried Berg calls 0.04€
+*** FLOP *** [Th Kd 8h]
+chaketovibet bets 0.02€
+Fried Berg calls 0.02€
+*** TURN *** [Th Kd 8h][8d]
+chaketovibet bets 0.13€
+Fried Berg folds
+chaketovibet collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.02€
+Board: [Th Kd 8h 8d]
+Seat 1: chaketovibet (small blind) won 0.27€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540827-1701592616 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:36:56 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.56€)
+Seat 2: sopra61 (2.91€)
+Seat 3: Thequeen1205 (2.37€)
+Seat 4: scorp1ontk (1.67€)
+Seat 5: _Adopt1mucK_ (2.60€)
+Seat 6: Pablopenrais (2.93€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+sopra61 posts big blind 0.02€
+Dealt to Fried Berg [7h 8c]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+scorp1ontk calls 0.02€
+_Adopt1mucK_ folds
+Pablopenrais folds
+Fried Berg folds
+sopra61 checks
+*** FLOP *** [4h 8d 5c]
+sopra61 bets 0.02€
+scorp1ontk calls 0.02€
+*** TURN *** [4h 8d 5c][Js]
+sopra61 bets 0.03€
+scorp1ontk calls 0.03€
+*** RIVER *** [4h 8d 5c Js][Kc]
+sopra61 bets 0.05€
+scorp1ontk folds
+sopra61 collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | Rake 0.02€
+Board: [4h 8d 5c Js Kc]
+Seat 2: sopra61 (big blind) won 0.18€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540843-1701592629 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:37:09 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: benzappa (1.77€)
+Seat 2: loreal78 (1.14€)
+Seat 3: Fried Berg (0.55€)
+Seat 4: gagnejamais4 (3.04€)
+Seat 5: fuego17 (2.01€)
+Seat 6: Fish-de-paye (2€)
+*** ANTE/BLINDS ***
+benzappa posts small blind 0.01€
+loreal78 posts big blind 0.02€
+Dealt to Fried Berg [4d 3h]
+*** PRE-FLOP *** 
+Fried Berg folds
+gagnejamais4 raises 0.04€ to 0.06€
+fuego17 folds
+Fish-de-paye folds
+benzappa folds
+loreal78 folds
+gagnejamais4 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: gagnejamais4 won 0.09€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540853-1701592640 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:37:20 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: edfcain (4.17€)
+Seat 2: Youf54300 (0.47€)
+Seat 3: Fish-de-paye (2€)
+Seat 4: DigBick99 (2€)
+Seat 5: Fried Berg (0.55€)
+Seat 6: scach-111 (2€)
+*** ANTE/BLINDS ***
+edfcain posts small blind 0.01€
+Youf54300 posts big blind 0.02€
+Dealt to Fried Berg [Th Jd]
+*** PRE-FLOP *** 
+Fish-de-paye folds
+DigBick99 folds
+Fried Berg raises 0.02€ to 0.04€
+scach-111 calls 0.04€
+edfcain folds
+Youf54300 raises 0.43€ to 0.47€ and is all-in
+Fried Berg folds
+scach-111 folds
+Youf54300 collected 0.56€ from pot
+*** SUMMARY ***
+Total pot 0.56€ | No rake
+Seat 2: Youf54300 (big blind) won 0.56€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540895-1701592682 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:38:02 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: muespachois1 (0.77€)
+Seat 2: Jeje27 (5.84€)
+Seat 3: scach-111 (2.41€)
+Seat 4: benzappa (4.22€)
+Seat 5: Fried Berg (0.51€)
+Seat 6: gagnejamais4 (2.88€)
+*** ANTE/BLINDS ***
+muespachois1 posts small blind 0.01€
+Jeje27 posts big blind 0.02€
+Dealt to Fried Berg [8c Js]
+*** PRE-FLOP *** 
+scach-111 calls 0.02€
+benzappa folds
+Fried Berg folds
+gagnejamais4 raises 0.04€ to 0.06€
+muespachois1 folds
+Jeje27 folds
+scach-111 calls 0.04€
+*** FLOP *** [9s 2c 5h]
+scach-111 checks
+gagnejamais4 bets 0.05€
+scach-111 folds
+gagnejamais4 collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | Rake 0.02€
+Board: [9s 2c 5h]
+Seat 6: gagnejamais4 (button) won 0.18€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540917-1701592703 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:38:23 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: fuego17 (3.42€)
+Seat 2: jdeepenslip (2.32€)
+Seat 3: Fried Berg (0.51€)
+Seat 4: DigBick99 (2.33€)
+Seat 5: TaBrEaMoI (2.24€)
+Seat 6: Pac_Man13 (0.76€)
+*** ANTE/BLINDS ***
+fuego17 posts small blind 0.01€
+jdeepenslip posts big blind 0.02€
+Dealt to Fried Berg [Ac Td]
+*** PRE-FLOP *** 
+Fried Berg raises 0.02€ to 0.04€
+DigBick99 folds
+TaBrEaMoI folds
+Pac_Man13 folds
+fuego17 folds
+jdeepenslip folds
+Fried Berg collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 3: Fried Berg won 0.07€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540947-1701592734 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:38:54 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.54€)
+Seat 2: Pac_Man13 (0.30€)
+Seat 3: Itashi.95 (2.92€)
+Seat 4: benzappa (1.79€)
+Seat 5: Thequeen1205 (2.28€)
+Seat 6: _Adopt1mucK_ (2.59€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Pac_Man13 posts big blind 0.02€
+Dealt to Fried Berg [3c Kc]
+*** PRE-FLOP *** 
+Itashi.95 folds
+benzappa folds
+Thequeen1205 folds
+_Adopt1mucK_ folds
+Fried Berg folds
+Pac_Man13 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Pac_Man13 (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540961-1701592747 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:39:07 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Jeje27 (5.86€)
+Seat 2: Fried Berg (0.53€)
+Seat 3: jdeepenslip (2.30€)
+Seat 4: muespachois1 (0.82€)
+Seat 5: CB-Joker6274 (7.81€)
+Seat 6: DigBick99 (2.35€)
+*** ANTE/BLINDS ***
+Jeje27 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [4s 9h]
+*** PRE-FLOP *** 
+jdeepenslip raises 0.03€ to 0.05€
+muespachois1 calls 0.05€
+CB-Joker6274 calls 0.05€
+DigBick99 raises 0.23€ to 0.28€
+Jeje27 folds
+Fried Berg folds
+jdeepenslip raises 0.56€ to 0.84€
+muespachois1 folds
+CB-Joker6274 folds
+DigBick99 folds
+jdeepenslip collected 1.25€ from pot
+*** SUMMARY ***
+Total pot 1.25€ | No rake
+Seat 3: jdeepenslip won 1.25€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-540971-1701592755 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:39:15 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Pac_Man13 (0.31€)
+Seat 2: benzappa (4.33€)
+Seat 3: Thequeen1205 (2.92€)
+Seat 4: MENDOSA-31 (0.62€)
+Seat 5: Fried Berg (0.51€)
+Seat 6: grut28 (1.72€)
+*** ANTE/BLINDS ***
+Pac_Man13 posts small blind 0.01€
+benzappa posts big blind 0.02€
+Dealt to Fried Berg [Kh Qh]
+*** PRE-FLOP *** 
+Thequeen1205 folds
+MENDOSA-31 raises 0.02€ to 0.04€
+Fried Berg calls 0.04€
+grut28 folds
+Pac_Man13 calls 0.03€
+benzappa calls 0.02€
+*** FLOP *** [5s As 5h]
+Pac_Man13 bets 0.03€
+benzappa folds
+MENDOSA-31 calls 0.03€
+Fried Berg folds
+*** TURN *** [5s As 5h][Td]
+Pac_Man13 checks
+MENDOSA-31 bets 0.02€
+Pac_Man13 calls 0.02€
+*** RIVER *** [5s As 5h Td][6s]
+Pac_Man13 checks
+MENDOSA-31 checks
+*** SHOW DOWN ***
+MENDOSA-31 shows [Th Jh] (Two pairs : Tens and 5)
+Pac_Man13 shows [6c Ac] (Two pairs : Aces and 6)
+Pac_Man13 collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.03€
+Board: [5s As 5h Td 6s]
+Seat 1: Pac_Man13 (small blind) showed [6c Ac] and won 0.23€ with Two pairs : Aces and 6
+Seat 4: MENDOSA-31 showed [Th Jh] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541020-1701592803 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:03 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: JV_Titan0 (2.25€)
+Seat 2: F.k.theriver (1.59€)
+Seat 3: grut28 (1.65€)
+Seat 4: Fried Berg (0.47€)
+Seat 5: Suaterna207 (2.02€)
+Seat 6: TaBrEaMoI (5.79€)
+*** ANTE/BLINDS ***
+JV_Titan0 posts small blind 0.01€
+F.k.theriver posts big blind 0.02€
+Dealt to Fried Berg [Jh 5d]
+*** PRE-FLOP *** 
+grut28 folds
+Fried Berg folds
+Suaterna207 raises 0.04€ to 0.06€
+TaBrEaMoI folds
+JV_Titan0 folds
+F.k.theriver folds
+Suaterna207 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: Suaterna207 won 0.09€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541022-1701592805 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:05 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Perf-31 (2.12€)
+Seat 2: grut28 (1.65€)
+Seat 3: JV_Titan0 (2.24€)
+Seat 4: Mizoun2.0 (2.12€)
+Seat 5: scach-111 (2.43€)
+Seat 6: Fried Berg (0.47€)
+*** ANTE/BLINDS ***
+Perf-31 posts small blind 0.01€
+grut28 posts big blind 0.02€
+Dealt to Fried Berg [Ah 8h]
+*** PRE-FLOP *** 
+JV_Titan0 folds
+Mizoun2.0 raises 0.04€ to 0.06€
+scach-111 folds
+Fried Berg calls 0.06€
+Perf-31 folds
+grut28 folds
+*** FLOP *** [Jc 8c Qd]
+Mizoun2.0 checks
+Fried Berg checks
+*** TURN *** [Jc 8c Qd][Ts]
+Mizoun2.0 bets 0.10€
+Fried Berg folds
+Mizoun2.0 collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.02€
+Board: [Jc 8c Qd Ts]
+Seat 4: Mizoun2.0 won 0.23€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541047-1701592827 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:27 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Thequeen1205 (2.26€)
+Seat 2: Pac_Man13 (0.45€)
+Seat 3: Fried Berg (0.41€)
+Seat 4: leplombier15 (1.85€)
+Seat 5: scach-111 (2€)
+Seat 6: Rue115 (2.45€)
+*** ANTE/BLINDS ***
+Thequeen1205 posts small blind 0.01€
+Pac_Man13 posts big blind 0.02€
+Dealt to Fried Berg [3h 7c]
+*** PRE-FLOP *** 
+Fried Berg folds
+leplombier15 folds
+scach-111 folds
+Rue115 raises 0.03€ to 0.05€
+Thequeen1205 folds
+Pac_Man13 calls 0.03€
+*** FLOP *** [5d Jh Qs]
+Pac_Man13 bets 0.07€
+Rue115 calls 0.07€
+*** TURN *** [5d Jh Qs][7h]
+Pac_Man13 checks
+Rue115 bets 0.16€
+Pac_Man13 folds
+Rue115 collected 0.38€ from pot
+*** SUMMARY ***
+Total pot 0.38€ | Rake 0.03€
+Board: [5d Jh Qs 7h]
+Seat 6: Rue115 (button) won 0.38€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541049-1701592829 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:29 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: VR_King14 (2.01€)
+Seat 2: Fried Berg (0.41€)
+Seat 3: basenites31 (0.47€)
+Seat 4: chaketovibet (2.37€)
+Seat 5: F.k.theriver (1.59€)
+Seat 6: C.S Hey Hey (2.03€)
+*** ANTE/BLINDS ***
+VR_King14 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [2c 9d]
+*** PRE-FLOP *** 
+basenites31 folds
+chaketovibet raises 0.04€ to 0.06€
+F.k.theriver calls 0.06€
+C.S Hey Hey folds
+VR_King14 calls 0.05€
+Fried Berg folds
+*** FLOP *** [4s 4h 8h]
+VR_King14 checks
+chaketovibet checks
+F.k.theriver checks
+*** TURN *** [4s 4h 8h][3s]
+VR_King14 checks
+chaketovibet checks
+F.k.theriver checks
+*** RIVER *** [4s 4h 8h 3s][Kc]
+VR_King14 checks
+chaketovibet checks
+F.k.theriver checks
+*** SHOW DOWN ***
+chaketovibet shows [Qs Jd] (One pair : 4)
+F.k.theriver shows [Js Qh] (One pair : 4)
+VR_King14 shows [6h 6s] (Two pairs : 6 and 4)
+VR_King14 collected 0.18€ from pot
+*** SUMMARY ***
+Total pot 0.18€ | Rake 0.02€
+Board: [4s 4h 8h 3s Kc]
+Seat 1: VR_King14 (small blind) showed [6h 6s] and won 0.18€ with Two pairs : 6 and 4
+Seat 4: chaketovibet showed [Qs Jd] and lost with One pair : 4
+Seat 5: F.k.theriver showed [Js Qh] and lost with One pair : 4
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541053-1701592833 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:33 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.39€)
+Seat 2: Mizoun2.0 (2.18€)
+Seat 3: Perf-31 (2€)
+Seat 4: sopra61 (2.75€)
+Seat 5: basenites31 (0.47€)
+Seat 6: benzappa (1.78€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+Mizoun2.0 posts big blind 0.02€
+Dealt to Fried Berg [7s Jc]
+*** PRE-FLOP *** 
+Perf-31 folds
+sopra61 folds
+basenites31 folds
+benzappa raises 0.02€ to 0.04€
+Fried Berg folds
+Mizoun2.0 folds
+benzappa collected 0.07€ from pot
+*** SUMMARY ***
+Total pot 0.07€ | No rake
+Seat 6: benzappa (button) won 0.07€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541060-1701592840 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:40 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: KON-2-PEUTE (2.05€)
+Seat 2: scach-111 (2.42€)
+Seat 3: titi58200 (0.82€)
+Seat 4: gagnejamais4 (3.23€)
+Seat 5: TaBrEaMoI (2.29€)
+Seat 6: Fried Berg (0.38€)
+*** ANTE/BLINDS ***
+KON-2-PEUTE posts small blind 0.01€
+scach-111 posts big blind 0.02€
+Dealt to Fried Berg [Qs 6d]
+*** PRE-FLOP *** 
+titi58200 raises 0.02€ to 0.04€
+gagnejamais4 folds
+TaBrEaMoI folds
+Fried Berg folds
+KON-2-PEUTE folds
+scach-111 calls 0.02€
+*** FLOP *** [8d 6s 7d]
+scach-111 checks
+titi58200 bets 0.02€
+scach-111 folds
+titi58200 collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | Rake 0.01€
+Board: [8d 6s 7d]
+Seat 3: titi58200 won 0.10€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541065-1701592844 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:44 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: gagnejamais4 (2.53€)
+Seat 2: alemky (0.80€)
+Seat 3: Mizoun2.0 (2.27€)
+Seat 4: Fried Berg (0.38€)
+Seat 5: DigBick99 (3.49€)
+Seat 6: TaBrEaMoI (3.99€)
+*** ANTE/BLINDS ***
+gagnejamais4 posts small blind 0.01€
+alemky posts big blind 0.02€
+Dealt to Fried Berg [4h 9c]
+*** PRE-FLOP *** 
+Mizoun2.0 folds
+Fried Berg folds
+DigBick99 folds
+TaBrEaMoI folds
+gagnejamais4 raises 0.04€ to 0.06€
+alemky folds
+gagnejamais4 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 1: gagnejamais4 (small blind) won 0.08€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541066-1701592845 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:45 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Perf-31 (2€)
+Seat 2: SirX (7.52€)
+Seat 3: Davt7 (0.47€)
+Seat 4: Fried Berg (0.38€)
+Seat 5: C.S Hey Hey (2€)
+Seat 6: BIGDEAL63 (1.94€)
+*** ANTE/BLINDS ***
+Perf-31 posts small blind 0.01€
+SirX posts big blind 0.02€
+Dealt to Fried Berg [8c 3d]
+*** PRE-FLOP *** 
+Davt7 folds
+Fried Berg folds
+C.S Hey Hey raises 0.03€ to 0.05€
+BIGDEAL63 folds
+Perf-31 calls 0.04€
+SirX calls 0.03€
+*** FLOP *** [7d Ad Qc]
+Perf-31 checks
+SirX bets 0.10€
+C.S Hey Hey calls 0.10€
+Perf-31 calls 0.10€
+*** TURN *** [7d Ad Qc][Jh]
+Perf-31 checks
+SirX bets 0.16€
+C.S Hey Hey folds
+Perf-31 calls 0.16€
+*** RIVER *** [7d Ad Qc Jh][9h]
+Perf-31 checks
+SirX bets 0.27€
+Perf-31 folds
+SirX collected 0.96€ from pot
+*** SUMMARY ***
+Total pot 0.96€ | Rake 0.08€
+Board: [7d Ad Qc Jh 9h]
+Seat 2: SirX (big blind) won 0.96€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541068-1701592846 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:46 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: JV_Titan0 (2.25€)
+Seat 2: grut28 (1.65€)
+Seat 3: LilRun (1.94€)
+Seat 4: BIGDEAL63 (1.94€)
+Seat 5: Fried Berg (0.38€)
+Seat 6: scorp1ontk (0.43€)
+*** ANTE/BLINDS ***
+JV_Titan0 posts small blind 0.01€
+grut28 posts big blind 0.02€
+Dealt to Fried Berg [7c 6s]
+*** PRE-FLOP *** 
+LilRun folds
+BIGDEAL63 folds
+Fried Berg folds
+scorp1ontk folds
+JV_Titan0 calls 0.01€
+grut28 checks
+*** FLOP *** [2d 9h 7h]
+JV_Titan0 checks
+grut28 checks
+*** TURN *** [2d 9h 7h][5c]
+JV_Titan0 checks
+grut28 checks
+*** RIVER *** [2d 9h 7h 5c][Ac]
+JV_Titan0 checks
+grut28 checks
+*** SHOW DOWN ***
+JV_Titan0 shows [Qc 8c] (High card : Ace)
+grut28 shows [Kc 7s] (One pair : 7)
+grut28 collected 0.04€ from pot
+*** SUMMARY ***
+Total pot 0.04€ | No rake
+Board: [2d 9h 7h 5c Ac]
+Seat 1: JV_Titan0 (small blind) showed [Qc 8c] and lost with High card : Ace
+Seat 2: grut28 (big blind) showed [Kc 7s] and won 0.04€ with One pair : 7
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541071-1701592848 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:40:48 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: DigBick99 (3.49€)
+Seat 2: Fried Berg (0.38€)
+Seat 3: M&dusa (1.90€)
+Seat 4: TaBrEaMoI (3.99€)
+Seat 5: Mizoun2.0 (2.26€)
+Seat 6: Itashi.95 (2.90€)
+*** ANTE/BLINDS ***
+DigBick99 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [2h Kc]
+*** PRE-FLOP *** 
+M&dusa folds
+TaBrEaMoI folds
+Mizoun2.0 raises 0.04€ to 0.06€
+Itashi.95 folds
+DigBick99 folds
+Fried Berg folds
+Mizoun2.0 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: Mizoun2.0 won 0.09€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541089-1701592868 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:41:08 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: BIGDEAL63 (1.92€)
+Seat 2: Thequeen1205 (2.52€)
+Seat 3: Fried Berg (0.36€)
+Seat 4: _Adopt1mucK_ (2.59€)
+Seat 5: MENDOSA-31 (0.59€)
+Seat 6: Tireks (2.08€)
+*** ANTE/BLINDS ***
+BIGDEAL63 posts small blind 0.01€
+Thequeen1205 posts big blind 0.02€
+Dealt to Fried Berg [4h 6c]
+*** PRE-FLOP *** 
+Fried Berg folds
+_Adopt1mucK_ folds
+MENDOSA-31 calls 0.02€
+Tireks calls 0.02€
+BIGDEAL63 raises 0.46€ to 0.48€
+Thequeen1205 folds
+MENDOSA-31 folds
+Tireks folds
+BIGDEAL63 collected 0.54€ from pot
+*** SUMMARY ***
+Total pot 0.54€ | No rake
+Seat 1: BIGDEAL63 (small blind) won 0.54€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541099-1701592884 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:41:24 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.36€)
+Seat 2: KhalilNeyl (0.91€)
+Seat 3: DigBick99 (2.03€)
+Seat 4: TaBrEaMoI (3.89€)
+Seat 5: KON-2-PEUTE (2.09€)
+Seat 6: Suaterna207 (2€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+KhalilNeyl posts big blind 0.02€
+Dealt to Fried Berg [Ah 7s]
+*** PRE-FLOP *** 
+DigBick99 folds
+TaBrEaMoI folds
+KON-2-PEUTE folds
+Suaterna207 raises 0.04€ to 0.06€
+Fried Berg calls 0.05€
+KhalilNeyl folds
+*** FLOP *** [6s Qc Js]
+Fried Berg checks
+Suaterna207 checks
+*** TURN *** [6s Qc Js][6h]
+Fried Berg checks
+Suaterna207 checks
+*** RIVER *** [6s Qc Js 6h][4c]
+Fried Berg checks
+Suaterna207 checks
+*** SHOW DOWN ***
+Suaterna207 shows [Kd 8d] (One pair : 6)
+Fried Berg shows [Ah 7s] (One pair : 6)
+Fried Berg collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [6s Qc Js 6h 4c]
+Seat 1: Fried Berg (small blind) showed [Ah 7s] and won 0.13€ with One pair : 6
+Seat 6: Suaterna207 (button) showed [Kd 8d] and lost with One pair : 6
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541142-1701592929 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:42:09 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Suaterna207 (2€)
+Seat 2: Tireks (2.09€)
+Seat 3: scach-111 (2€)
+Seat 4: Pac_Man13 (0.79€)
+Seat 5: mIcHoCcO (1.88€)
+Seat 6: Fried Berg (0.43€)
+*** ANTE/BLINDS ***
+Suaterna207 posts small blind 0.01€
+Tireks posts big blind 0.02€
+Dealt to Fried Berg [6s As]
+*** PRE-FLOP *** 
+scach-111 calls 0.02€
+Pac_Man13 raises 0.03€ to 0.05€
+mIcHoCcO folds
+Fried Berg calls 0.05€
+Suaterna207 folds
+Tireks folds
+scach-111 calls 0.03€
+*** FLOP *** [3s Jc 2d]
+scach-111 checks
+Pac_Man13 bets 0.15€
+Fried Berg folds
+scach-111 folds
+Pac_Man13 collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.02€
+Board: [3s Jc 2d]
+Seat 4: Pac_Man13 won 0.31€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541178-1701592962 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:42:42 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: scach-111 (2€)
+Seat 2: Thequeen1205 (4.03€)
+Seat 3: Hugomauves44 (0.30€)
+Seat 4: DuroDePelar (2€)
+Seat 5: Fried Berg (0.38€)
+Seat 6: Mizoun2.0 (2.33€)
+*** ANTE/BLINDS ***
+scach-111 posts small blind 0.01€
+Thequeen1205 posts big blind 0.02€
+Dealt to Fried Berg [Jc Jh]
+*** PRE-FLOP *** 
+Hugomauves44 calls 0.02€
+DuroDePelar folds
+Fried Berg raises 0.02€ to 0.04€
+Mizoun2.0 folds
+scach-111 folds
+Thequeen1205 folds
+Hugomauves44 calls 0.02€
+*** FLOP *** [Jd 9h 5d]
+Hugomauves44 checks
+Fried Berg bets 0.04€
+Hugomauves44 folds
+Fried Berg collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [Jd 9h 5d]
+Seat 5: Fried Berg won 0.14€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541206-1701592988 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:43:08 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Fried Berg (0.44€)
+Seat 2: GuizouOmFada (1.95€)
+Seat 3: Pablopenrais (2.40€)
+Seat 4: DuroDePelar (2.07€)
+Seat 5: Suaterna207 (2€)
+Seat 6: Hugomauves44 (0.26€)
+*** ANTE/BLINDS ***
+Fried Berg posts small blind 0.01€
+GuizouOmFada posts big blind 0.02€
+Dealt to Fried Berg [8c 9s]
+*** PRE-FLOP *** 
+Pablopenrais folds
+DuroDePelar folds
+Suaterna207 folds
+Hugomauves44 folds
+Fried Berg folds
+GuizouOmFada collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: GuizouOmFada (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541230-1701593014 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:43:34 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Thequeen1205 (4€)
+Seat 2: Piexxxe10 (1.60€)
+Seat 3: basenites31 (0.47€)
+Seat 4: Fried Berg (0.43€)
+Seat 5: Bazoook (2.73€)
+Seat 6: CB-Joker6274 (8.33€)
+*** ANTE/BLINDS ***
+Thequeen1205 posts small blind 0.01€
+Piexxxe10 posts big blind 0.02€
+Dealt to Fried Berg [Kc 4d]
+*** PRE-FLOP *** 
+basenites31 folds
+Fried Berg folds
+Bazoook folds
+CB-Joker6274 folds
+Thequeen1205 folds
+Piexxxe10 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: Piexxxe10 (big blind) won 0.03€
+
+
+Winamax Poker - HOLD-UP "Colorado" - HandId: #19116069-541239-1701593022 - Holdem no limit (0.01€/0.02€) - 2023/12/03 08:43:42 UTC
+Table: 'Colorado' 6-max (real money) Seat #6 is the button
+Seat 1: Nobru.7793 (0.52€)
+Seat 2: Fried Berg (0.43€)
+Seat 3: fuego17 (3.27€)
+Seat 4: AmelPaquita (4.05€)
+Seat 5: Suaterna207 (2€)
+Seat 6: basenites31 (0.47€)
+*** ANTE/BLINDS ***
+Nobru.7793 posts small blind 0.01€
+Fried Berg posts big blind 0.02€
+Dealt to Fried Berg [Th As]
+*** PRE-FLOP *** 
+fuego17 folds
+AmelPaquita calls 0.02€
+Suaterna207 calls 0.02€
+basenites31 calls 0.02€
+Nobru.7793 raises 0.10€ to 0.12€
+Fried Berg calls 0.10€
+AmelPaquita calls 0.10€
+Suaterna207 calls 0.10€
+basenites31 folds
+*** FLOP *** [Td Jh Ad]
+Nobru.7793 bets 0.40€ and is all-in
+Fried Berg calls 0.31€ and is all-in
+AmelPaquita calls 0.40€
+Suaterna207 folds
+*** TURN *** [Td Jh Ad][Qs]
+*** RIVER *** [Td Jh Ad Qs][Qh]
+*** SHOW DOWN ***
+Fried Berg shows [Th As] (Two pairs : Aces and Queens)
+Nobru.7793 shows [3d Kd] (Straight Ace high)
+AmelPaquita shows [Ks 7s] (Straight Ace high)
+AmelPaquita collected 0.73€ from pot
+Nobru.7793 collected 0.72€ from pot
+*** SUMMARY ***
+Total pot 1.45€ | Rake 0.16€
+Board: [Td Jh Ad Qs Qh]
+Seat 1: Nobru.7793 (small blind) showed [3d Kd] and won 0.72€ with Straight Ace high
+Seat 2: Fried Berg (big blind) showed [Th As] and lost with Two pairs : Aces and Queens
+Seat 4: AmelPaquita showed [Ks 7s] and won 0.73€ with Straight Ace high
+
+
