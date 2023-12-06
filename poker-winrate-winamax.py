@@ -67,7 +67,7 @@ def count_active_preflop_hands(data, player_name):
 
 # Usage
 folder_path = 'daysOfPoker'
-player_name = 'Fried Berg'
+player_name = 'Your Username'
 big_blind_size = 0.02  # Change this as per your game
 overall_total_winnings = 0.0
 overall_hand_count = 0
