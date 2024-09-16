@@ -1,5 +1,5 @@
 # PokerStats
-This repository will contain multiple Python script that will help you have better stats on your poker history.
+This repository will contain multiple Python script that will help you to analyse in a better way your stats.
 
 ## Winamax Hand History
 ### Poker Hand History Analyzer (you can find it ine the file : poker-winrate-winamax.py)
